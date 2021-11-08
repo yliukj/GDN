@@ -1,5 +1,5 @@
 # GDN
-A tensorflow implementation of GDN 
+A tensorflow implementation of **Deconvolutional Networks on Graph Data (NeurIPS 2021)**
 <p align="center">
 </p>
 <p align="justify">
