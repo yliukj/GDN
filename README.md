@@ -9,17 +9,8 @@ In this paper, we consider an inverse problem in graph learning domain – “gi
   
 This repository provides a Tensorflow implementation of GDN as described in the paper:
 > Deconvolutional Networks on Graph Data. Jia Li, Jiajin Li, Yang Liu, Jianwei Yu, Yueting Li, Hong Cheng. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2110.15528)
+
+## Usage
+To run our model, enter the dataset folder first and run the following command.
   
-```
-# Dataset
-douban
-
-# Model options
-```
-
-# Example
-```
-train from scratch
-
-```
-python main.py 
+```python main.py```
